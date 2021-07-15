@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eatoes Assignment</string>
+
+    <string name="logIn">LogIn</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+
+    <string name="emptyField">Please Fill This!!</string>
+    <string name="validEmail">Please Enter Valid Email</string>
+    <string name="validPassword">Please Password</string>
+
+    <string name="helloUser">Hello User! %s</string>
+</resources>
