@@ -1,5 +1,3 @@
 # EatoesAssignment
 
-I hereby submit my assignment.
-
-The email is admin@gmail.com && password is admin for successful login.
+This is an assignment submission for Eatoes Company. Tech Recruiters may refer to this for code.
